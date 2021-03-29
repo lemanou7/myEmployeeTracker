@@ -1,7 +1,8 @@
 const connection = require('./config/connection')
+
 const {firstPrompt} = require('./lib/util')
 
-const inquirer = require("inquirer");
+
 
 // const sql = require("./sql");
 
